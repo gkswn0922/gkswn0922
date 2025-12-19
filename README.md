@@ -1,4 +1,4 @@
-## 👋 백엔드 중심 풀스택 개발자 OOO입니다
+## 👋 백엔드 중심 풀스택 개발자 조한주입니다
 
 약 3년간 Laravel 기반 실서비스를 개발·운영하며
 장애 대응, 성능 개선, 유지보수 경험을 쌓아왔습니다.
@@ -31,7 +31,7 @@
 ### 🔹 RingTalk (회사 프로젝트)
 - Oracle Cloud 환경 운영 서비스
 - DB 연결 관리 및 장애 대응 경험
-- 일부 코드만 공개  
+- 일부 코드만 공개
 👉 자세한 내용은 프로젝트 README 참고
 
 ### 🔹 Cocos (회사 프로젝트)
@@ -57,4 +57,4 @@
 ---
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: whgkswn0922@naver.com / gkswn970922@gmail.com
